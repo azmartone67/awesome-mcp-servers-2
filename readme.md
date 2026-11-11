@@ -227,6 +227,7 @@
 - **[Spotify MCP](https://github.com/varunneal/spotify-mcp)** — Search tracks, manage playlists, and control Spotify playback.
 - **[Unsplash MCP](https://github.com/mcp-servers/mcp-unsplash)** — Search and download high-quality stock photography from Unsplash.
 - **[Canva MCP](https://github.com/canva-public/mcp-server-canva)** — Access Canva designs, templates, and brand assets via the Canva API.
+- **[Datacircle MCP](https://api.datacircle.dev/mcp)** — Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor. Find the best GTM APIs at [datacircle.dev](https://datacircle.dev).
 
 ---
 
